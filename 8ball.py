@@ -3,19 +3,19 @@ import random
 print("""
       
 Hi, I'm Magic 8-Ball — it's a pleasure to meet you!
-             ________
-         ,dP9CGG8888888@b,
-       ,IP  _   Y8888888@@b,
-      dIi  (_)   G88888888@b
-     dCII  (_)   G88888888@@b
-     GCCIi     ,GG88888888@@@
-     GGCCCCCCCGGG888888888@@@
-     GGGGCCCGGGG888888888@@@@
-     Y8GGGGGG88888888888@@@@P
-      Y888888888888888@@@@@P
-      `Y88888888888@@@@@@@P'
-         `@@@@@@@@@@@@@@P'
-             """)
+        ______
+    ,dP9CGG8888@b,
+  ,IP  _   Y88888@@b,
+ dIi  (_)   G888888@b
+dCII  (_)   G888888@@b
+GCCIi     ,GG888888@@@
+GGCCCCCCCGGG8888888@@@
+GGGGCCCGGGG8888888@@@@
+Y8GGGGGG888888888@@@@P
+ Y8888888888888@@@@@P
+ `Y888888888@@@@@@@P'
+    `@@@@@@@@@@@P'
+        """)
 
 
 name = input("And what is your name?  ")
