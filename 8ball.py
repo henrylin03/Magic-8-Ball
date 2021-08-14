@@ -21,8 +21,7 @@ Y8GGGGGG888888888@@@@P
 name = input("And what is your name?  ")
 
 if name != "":
-    print("""
-Fantastic, nice to meet you, """ + name + "!")
+    print("\nFantastic, nice to meet you, """ + name + "!")
 
 while True:
     ## input for question
